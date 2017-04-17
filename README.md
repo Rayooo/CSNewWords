@@ -25,3 +25,27 @@ invocation 调用
 
 snapshots 快照
 
+sequence 序列，顺序
+
+shortcut 快捷方式
+
+applet 小应用程序
+
+capable 有能力的，能干的
+
+marshalled 元帅，整理，排列
+
+architecture 体系结构
+
+transactional 事务性的,事务处理
+
+facade 外表，外观，门面模式
+
+canonical 标准 规范的 典型
+
+profile 配置文件，介绍，侧面剖面
+
+cluster 集群
+
+SOA service-oriented architecture 面向服务的体系结构
+
